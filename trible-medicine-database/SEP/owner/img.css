@@ -1,0 +1,15 @@
+
+.image{
+    height: 500px;
+    width: 200px;
+    mix-blend-mode: darken;
+}
+
+.main{
+    gap: 20px;
+    justify-content: space-evenly;
+}
+
+.submit{
+    background-color: #333;
+}

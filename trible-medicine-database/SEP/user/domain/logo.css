@@ -1,0 +1,15 @@
+.logo{
+    object-fit: contain;
+    height: 50px;
+    width: auto;
+}
+
+
+.banner{
+    height: auto;
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+

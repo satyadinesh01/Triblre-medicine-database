@@ -1,0 +1,80 @@
+body{
+    background-color: antiquewhite;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+}
+
+nav h1{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.box{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.content{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+textarea{
+    height: 200px;
+    width: auto;
+}
+
+input{
+    width: 400px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+#link{
+    width: 800px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+
+.image{
+    height: 500px;
+    width: 200px;
+    mix-blend-mode: darken;
+}
+
+.main{
+    gap: 20px;
+    justify-content: space-evenly;
+}
+
+.submit{
+    background-color: #333;
+}
+
+.submit{
+    background-color: #333;
+    color: antiquewhite;
+}
+
